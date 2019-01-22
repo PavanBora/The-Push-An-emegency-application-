@@ -1,0 +1,2 @@
+# The-Push-An-emegency-application-
+The main objective of the project is to develop an Android Application that lets it users to send notifications in case of an emergency situation.The users can send messages to the parents or friends by adding their contacts and also send notification to the nearest Police stations and Ambulances by a single click of a button.The person who received the message can see the location of the victim.The user can also trace the location of the nearest hospital and police stations.
